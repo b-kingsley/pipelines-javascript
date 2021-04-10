@@ -1,3 +1,5 @@
+[![Build Status](https://bkingsley.visualstudio.com/4-degrees-consulting/_apis/build/status/react-2021?branchName=refs%2Fpull%2F1%2Fmerge)](https://bkingsley.visualstudio.com/4-degrees-consulting/_build/latest?definitionId=6&branchName=refs%2Fpull%2F1%2Fmerge)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
